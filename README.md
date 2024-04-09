@@ -23,3 +23,5 @@ You may download the notes to read them, but PDFs can also be read natively in G
 # What are those numbers?
 Well, I have my files saved in a folder named `1 School Notes`, hence the numbers create a natural tree structure, and I can control the order which I want my folders in, by choosing what leading digits a folder has. 
 
+# NOTE
+Some `.tex` files have no matching `.pdf`, this is simply since I have not started writing & compiling them, but plan to in the future.
