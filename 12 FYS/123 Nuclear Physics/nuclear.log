@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.9)  9 APR 2024 14:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.9)  9 APR 2024 15:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -992,10 +992,10 @@ L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 39692 strings out of 474423
- 1043688 string characters out of 5740775
+ 39694 strings out of 474423
+ 1043722 string characters out of 5740775
  1933496 words of memory out of 5000000
- 61475 multiletter control sequences out of 15000+600000
+ 61477 multiletter control sequences out of 15000+600000
  572454 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,7n,107p,1179b,958s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1012,7 +1012,7 @@ cmr8.pfb><C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmsy10.pfb><C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmsy8.pfb><C:/Users/ah48963/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on nuclear.pdf (5 pages, 131247 bytes).
+Output written on nuclear.pdf (5 pages, 134706 bytes).
 PDF statistics:
  76 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
