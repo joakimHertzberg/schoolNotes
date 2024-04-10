@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.15)  8 APR 2024 17:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.9)  10 APR 2024 18:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,20 +6,20 @@ entering extended mode
 **./trigonometry.tex
 (trigonometry.tex
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
+L3 programming layer <2024-03-14>
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count187
-\c@section=\count188
-\c@subsection=\count189
-\c@subsubsection=\count190
-\c@paragraph=\count191
-\c@subparagraph=\count192
-\c@figure=\count193
-\c@table=\count194
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
@@ -44,14 +44,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count195
+\inf@bad=\count196
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count196
-\leftroot@=\count197
+\uproot@=\count197
+\leftroot@=\count198
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count198
-\DOTSCASE@=\count199
+\classnum@=\count199
+\DOTSCASE@=\count266
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -64,20 +64,20 @@ LaTeX Info: Redefining \Bigg on input line 725.
 \big@size=\dimen143
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count266
+\macc@depth=\count267
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count267
+\c@MaxMatrixCols=\count268
 \dotsspace@=\muskip16
-\c@parentequation=\count268
-\dspbrk@lvl=\count269
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
 \tag@help=\toks18
-\row@=\count270
-\column@=\count271
-\maxfields@=\count272
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
 \andhelp@=\toks19
 \eqnshift@=\dimen144
 \alignsep@=\dimen145
@@ -174,14 +174,14 @@ yslibraryfiltered.code.tex
 \pgf@yd=\dimen163
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count273
-\c@pgf@countb=\count274
-\c@pgf@countc=\count275
-\c@pgf@countd=\count276
+\c@pgf@counta=\count274
+\c@pgf@countb=\count275
+\c@pgf@countc=\count276
+\c@pgf@countd=\count277
 \t@pgf@toka=\toks27
 \t@pgf@tokb=\toks28
 \t@pgf@tokc=\toks29
-\pgf@sys@id@count=\count277
+\pgf@sys@id@count=\count278
 
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
 .cfg
@@ -200,8 +200,8 @@ File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
 syssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count278
-\pgfsyssoftpath@bigbuffer@items=\count279
+\pgfsyssoftpath@smallbuffer@items=\count279
+\pgfsyssoftpath@bigbuffer@items=\count280
 )
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
 sysprotocol.code.tex
@@ -239,7 +239,7 @@ l.code.tex)
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpar
 ser.code.tex
 \pgfmath@dimen=\dimen164
-\pgfmath@count=\count280
+\pgfmath@count=\count281
 \pgfmath@box=\box54
 \pgfmath@toks=\toks30
 \pgfmath@stack@operand=\toks31
@@ -267,7 +267,7 @@ ctions.integerarithmetics.code.tex)
 c.code.tex)
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathflo
 at.code.tex
-\c@pgfmathroundto@lastzeros=\count281
+\c@pgfmathroundto@lastzeros=\count282
 ))
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.cod
 e.tex)
@@ -307,7 +307,7 @@ File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box55
 \pgf@hbox=\box56
 \pgf@layerbox@main=\box57
-\pgf@picture@serial@count=\count282
+\pgf@picture@serial@count=\count283
 )
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 oregraphicstate.code.tex
@@ -342,8 +342,8 @@ File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 oreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen188
-\pgf@sys@shading@range@num=\count283
-\pgf@shadingcount=\count284
+\pgf@sys@shading@range@num=\count284
+\pgf@shadingcount=\count285
 )
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 oreimage.code.tex
@@ -413,7 +413,7 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
 braryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count285
+\pgf@plot@mark@count=\count286
 \pgfplotmarksize=\dimen193
 )
 \tikz@lastx=\dimen194
@@ -428,19 +428,19 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@figbox@bg=\box61
 \tikz@tempbox=\box62
 \tikz@tempbox@bg=\box63
-\tikztreelevel=\count286
-\tikznumberofchildren=\count287
-\tikznumberofcurrentchild=\count288
-\tikz@fig@count=\count289
+\tikztreelevel=\count287
+\tikznumberofchildren=\count288
+\tikznumberofcurrentchild=\count289
+\tikz@fig@count=\count290
 
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
 lematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count290
-\pgfmatrixcurrentcolumn=\count291
-\pgf@matrix@numberofcolumns=\count292
+\pgfmatrixcurrentrow=\count291
+\pgfmatrixcurrentcolumn=\count292
+\pgf@matrix@numberofcolumns=\count293
 )
-\tikz@expandcount=\count293
+\tikz@expandcount=\count294
 
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
 ikz/libraries\tikzlibrarytopaths.code.tex
@@ -486,7 +486,7 @@ ledecorations.code.tex
 \pgfdecoratedinputsegmentcompleteddistance=\dimen265
 \pgfdecoratedinputsegmentremainingdistance=\dimen266
 \pgf@decorate@distancetomove=\dimen267
-\pgf@decorate@repeatstate=\count294
+\pgf@decorate@repeatstate=\count295
 \pgfdecorationsegmentamplitude=\dimen268
 \pgfdecorationsegmentlength=\dimen269
 )
@@ -522,13 +522,13 @@ ikz/libraries\tikzlibraryintersections.code.tex
 braryintersections.code.tex
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
 braryfpu.code.tex)
-\pgf@intersect@solutions=\count295
+\pgf@intersect@solutions=\count296
 ))
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
 ikz/libraries\tikzlibrarymath.code.tex
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
 ikz/libraries\tikzlibraryfpu.code.tex)
-\tikz@math@for@depth=\count296
+\tikz@math@for@depth=\count297
 \tikz@math@dimen=\dimen270
 \tikz@math@toks=\toks35
 )
@@ -562,26 +562,26 @@ File: tikzlibrarythrough.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xfp\xfp.st
 y (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2024-01-22 L3 programming layer (loader) 
+Package: expl3 2024-03-14 L3 programming layer (loader) 
 
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
 dftex.def
-File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count297
+File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count298
 \l__pdf_internal_box=\box69
 ))
-Package: xfp 2023-10-10 L3 Floating point unit
+Package: xfp 2024-03-14 L3 Floating point unit
 )
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
 
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpa
 rse.sty
-Package: xparse 2023-10-10 L3 Experimental document command parser
+Package: xparse 2024-03-14 L3 Experimental document command parser
 )
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count298
+\etb@tempcnta=\count299
 ))
 \tkzRadius=\dimen271
 \tkzLength=\dimen272
@@ -594,7 +594,7 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \tkz@cy=\dimen279
 \tkz@dx=\dimen280
 \tkz@dy=\dimen281
-\tkz@cntmk=\count299
+\tkz@cntmk=\count300
 
 Local configuration file tkz-euclide.cfg found and used
 
@@ -765,9 +765,9 @@ File: pgflibrarycurvilinear.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirc.
 defines.tex
-\pgf@circ@count@a=\count300
-\pgf@circ@count@b=\count301
-\pgf@circ@count@c=\count302
+\pgf@circ@count@a=\count301
+\pgf@circ@count@b=\count302
+\pgf@circ@count@c=\count303
 \pgf@circ@res@up=\dimen289
 \pgf@circ@res@down=\dimen290
 \pgf@circ@res@zero=\dimen291
@@ -794,7 +794,7 @@ onopoles.tex)
 ipoles.tex)
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirct
 ripoles.tex
-\pgf@circ@res@count=\count303
+\pgf@circ@res@count=\count304
 )
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircq
 uadpoles.tex)
@@ -835,8 +835,8 @@ re.code.tex
 \t@pgfplots@tokb=\toks37
 \t@pgfplots@tokc=\toks38
 \pgfplots@tmpa=\dimen301
-\c@pgfplots@coordindex=\count304
-\c@pgfplots@scanlineindex=\count305
+\c@pgfplots@coordindex=\count305
+\c@pgfplots@scanlineindex=\count306
 
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplo
 tssysgeneric.code.tex))
@@ -859,13 +859,13 @@ ure\pgfplotsliststructure.code.tex)
 ure\pgfplotsliststructureext.code.tex)
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
 ure\pgfplotsarray.code.tex
-\c@pgfplotsarray@tmp=\count306
+\c@pgfplotsarray@tmp=\count307
 )
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
 ure\pgfplotsmatrix.code.tex)
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\p
 gfplotstableshared.code.tex
-\c@pgfplotstable@counta=\count307
+\c@pgfplotstable@counta=\count308
 \t@pgfplotstable@a=\toks42
 )
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
@@ -878,7 +878,7 @@ otsbinary.data.code.tex))
 otsutil.verb.code.tex)
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfli
 brarypgfplots.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count308
+\c@pgfplotslibrarysurf@no=\count309
 
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflib
 rarypgfplots.surfshading.pgfsys-pdftex.def)))
@@ -908,7 +908,7 @@ cks.code.tex)
 aths.code.tex)
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzl
 ibrarypgfplots.contourlua.code.tex)
-\pgfplots@numplots=\count309
+\pgfplots@numplots=\count310
 \pgfplots@xmin@reg=\dimen302
 \pgfplots@xmax@reg=\dimen303
 \pgfplots@ymin@reg=\dimen304
@@ -936,16 +936,16 @@ LaTeX Font Info:    ... okay on input line 13.
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
 mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count310
+\scratchcounter=\count311
 \scratchdimen=\dimen308
 \scratchbox=\box71
-\nofMPsegments=\count311
-\nofMParguments=\count312
+\nofMPsegments=\count312
+\nofMParguments=\count313
 \everyMPshowfont=\toks43
-\MPscratchCnt=\count313
+\MPscratchCnt=\count314
 \MPscratchDim=\dimen309
-\MPnumerator=\count314
-\makeMPintoPDFobject=\count315
+\MPnumerator=\count315
+\makeMPintoPDFobject=\count316
 \everyMPtoPDFconversion=\toks44
 )
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
@@ -987,10 +987,10 @@ L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 44678 strings out of 474541
- 1244371 string characters out of 5743481
- 2321552 words of memory out of 5000000
- 66315 multiletter control sequences out of 15000+600000
+ 44674 strings out of 474423
+ 1244114 string characters out of 5740775
+ 2324156 words of memory out of 5000000
+ 66429 multiletter control sequences out of 15000+600000
  568785 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  119i,17n,138p,1178b,2278s stack positions out of 10000i,1000n,20000p,200000b,200000s
