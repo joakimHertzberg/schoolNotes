@@ -15,3 +15,6 @@
 \contentsline {subsubsection}{\numberline {3.3.1}Transmutation}{6}{}%
 \contentsline {subsubsection}{\numberline {3.3.2}Fission}{6}{}%
 \contentsline {subsubsection}{\numberline {3.3.3}Fusion}{6}{}%
+\contentsline {section}{\numberline {4}Half-life}{7}{}%
+\contentsline {subsection}{\numberline {4.1}What is half-life?}{7}{}%
+\contentsline {subsection}{\numberline {4.2}Activity}{7}{}%

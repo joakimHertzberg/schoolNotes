@@ -5,7 +5,10 @@
 \usepackage{tikz}
 \usepackage{tkz-euclide}
 \usepackage{circuitikz}
+\usepackage{pgfplots}
 \usepackage[many]{tcolorbox}
+
+\pgfplotsset{compat=1.18}
 
 \newtcolorbox{boxA}{
 colframe=white,
@@ -94,7 +97,11 @@ Since elements release electrons as they decay, and gain a proton, the element i
 
 \subsection{$\bm{\gamma}$-radiation}
 
-\newpage
+\emph{Gamma-radiation} or \emph{gamma decay} is when an 
+excited particle de-excites and releases a photon, i.e. a $\gamma$-particle.
+$$^{A}_{Z}X' \ \rightarrow \ ^{A}_{Z}X \ + \ ^0_0\gamma$$
+
+
 
 %REACTIONS
 \section{Nuclear Reactions}
@@ -151,6 +158,61 @@ It is possible to transmute one particle into the other by fusion. For example: 
 A fission reaction is one where an atom is split into other atoms, this is usually done synthetically by bombarding the original atom with neutrons. $$^{A}_{Z}X \ + \ ^0_1n \ \rightarrow \ ^{A_1}_{Z_{1}}Y \ + \ ^{A-A_1}_{Z-Z_1-1}X' \ + \ 2\left(^{0}_{1}n \right)$$
 
 \subsubsection{Fusion}
-...to be continued
+A fusion reaction is one where smaller nuclei react and create larger nuclei.
+$$_{1}^2H \ + \ _{1}^3H \ \rightarrow \ ^4_2He \ + \ ^1_0n$$
+Fusion reactions release very large amounts of energy, but 
+they also require a lot of energy to be started. \bigbreak 
 
+\begin{boxA}
+
+	\textbf{\underline{Sidenote:}} \bigbreak
+
+Fusion occurs in the sun, it may take place here due to the
+extreme gravitational pressure exerted upon the core atoms
+ by the rest of the star. The star then dies when the 
+ internal pressure from fusion can no longer oppose the gravitation
+ i.e. the core turns into $Fe$.
+
+\end{boxA}
+
+\newpage
+
+\section{Half-life}
+
+\subsection{What is half-life?}
+
+Half life is \emph{the time it takes for an element to 
+decay into half the element present}. \bigbreak
+
+The equation for half-life is as follows: 
+$$N_0\left(\frac{1}{2} \right)^\frac{t}{t_d}$$
+
+\begin{center}
+OR
+\end{center}
+$$e^{-\lambda t}$$ 
+
+\begin{center}
+Where $\lambda = \frac{1}{\tau}$ and $\tau=$ half-life
+\end{center}
+	\bigbreak
+
+\begin{center}
+\begin{tikzpicture}
+	\begin{axis}[
+	samples=1000,
+	xlabel = $t$ (minutes),
+	ylabel = material left ($g$),
+	xtick distance = 2,
+	ytick distance = 5,
+		]
+	\addplot[color=blue!50!black, domain=0:10]{50*e^(-x/2))};
+	\end{axis}
+\end{tikzpicture}
+\end{center}
+
+
+\subsection{Activity}
+\emph{Activity} is measured in $\frac{decays}{second}$, or 
+\emph{Becquerelle} ($Bq$). \bigbreak
 \end{document}
