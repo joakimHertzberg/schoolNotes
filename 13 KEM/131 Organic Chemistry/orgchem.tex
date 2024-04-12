@@ -1,1 +1,54 @@
-h
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{tikz}
+\usepackage{circuitikz}
+\usepackage{tkz-euclide}
+\usepackage{pgfplots}
+\usepackage[many]{tcolorbox}
+
+\newtcolorbox{BOX}{
+colframe=white,
+colback=white,
+enhanced,
+boxrule=1.5pt,
+borderline={0.75pt}{0pt}{dashed},
+}
+\tikzset{european}
+\title{Organic Chemistry}
+\author{Hertzberg, Joakim D.}
+\date{\today}
+\pgfplotsset{compat=1.18}
+
+%END OF PREAMBLE
+\begin{document}
+\begin{titlepage}
+\begin{center}
+\maketitle
+
+\end{center}
+\end{titlepage}
+
+\tableofcontents
+
+\newpage
+
+\section{Reaction Mechanisms}
+
+\subsection{Addition}
+\begin{center}
+\begin{tikzpicture}
+\node at(0,0){C};
+\draw (0.2,0.2) -- (0.8,0.8);
+\node at(1,1){C};
+\draw (0.2, 1.8) -- (0.8, 1.2);
+\node at(0,2){H};
+\draw (1.2, 1) -- (1.8, 1);
+\node at(2,1){C};
+\draw (2.2, 1.2) -- (2.8, 1.8);
+\node at(3,2){C};
+\draw (2.2, 0.8) -- (2.8, 0.2);
+\node at(3,0){C};
+\end{tikzpicture}
+\end{center}
+\end{document}
