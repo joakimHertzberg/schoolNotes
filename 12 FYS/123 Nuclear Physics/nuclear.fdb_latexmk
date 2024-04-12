@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1712826470.35722 "nuclear.tex" "nuclear.pdf" "nuclear" 1712826473.44833 0
+["pdflatex"] 1712902579.49768 "nuclear.tex" "nuclear.pdf" "nuclear" 1712902582.61671 0
   "C:/Users/ah48963/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1712661149 843694 59e89f177c40ff45352d849c07975912 ""
   "C:/Users/ah48963/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1712662330 24236990 dbebd8952c6c0e57d48c9e0ede71141e ""
   "C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1233951848 1120 1e8878807317373affa7f7bba4cf2f6a ""
@@ -49,6 +49,7 @@
   "C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 179c33bbf43f19adbb3825bb4e36e57a ""
+  "C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb" 1247596667 32734 69e00a6b65cedb993666e42eedb3d48f ""
   "C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
   "C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
@@ -249,9 +250,9 @@
   "C:/Users/ah48963/AppData/Local/Programs/MiKTeX/tex/latex/trimspaces/trimspaces.sty" 1253169183 1380 971a51b00a14503ddf754cab24c3f209 ""
   "C:/Users/ah48963/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "C:/Users/ah48963/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 9829c50ab36366d4da41fdc87e7d0699 ""
-  "nuclear.aux" 1712826472 1568 da87fe6456a2e2d61fa2bcb678a07373 "pdflatex"
-  "nuclear.tex" 1712826465 5204 a4f232773cfddfec8afd3f965348cc43 ""
-  "nuclear.toc" 1712826472 959 0b9e6fe0831602c4742c42e07d0c32ba "pdflatex"
+  "nuclear.aux" 1712902581 1889 7dcbf3af52febd4ac967609c08745864 "pdflatex"
+  "nuclear.tex" 1712902578 5843 b9dd334f13f06b76bd0d61cbc9248078 ""
+  "nuclear.toc" 1712902581 1157 07fff1b4959e9257af6af0726aa03d70 "pdflatex"
   (generated)
   "nuclear.aux"
   "nuclear.log"
