@@ -64,10 +64,62 @@ The $\sin$ function is defined as \emph{the ratio between the opposite side and 
 In the above example, $\sin(\theta)$ is defined as follows: $$\sin(\theta) = \frac{c}{b}$$
 And $\cos(\theta)$ as such: $$\cos(\theta) = \frac{a}{b}$$
 
-\subsubsection{On a graph}
+\subsubsection{The Law of Sines}
+\begin{center}
+\begin{tikzpicture}[scale=2.0]
+	\tkzDefPoint(0,0){A}
+	\tkzDefPoint(4,0){B}
+	\tkzDefPoint(3,2){C}
+	\tkzDrawPolygon(A,B,C)
 
 
-\newpage
+	\tkzMarkAngle[scale=0.75](B,A,C)
+	\tkzLabelAngle[right, pos=0.6](B,A,C){A}
+
+	\tkzMarkAngle[scale=0.75](A,C,B)
+	\tkzLabelAngle[below, pos=0.6](A,C,B){C}
+
+	\tkzMarkAngle[scale=0.75](C,B,A)
+	\tkzLabelAngle[left, pos=0.6](C,B,A){B}
+
+
+	%LINES
+
+	\tkzLabelLine[pos=0.5, below](A,B){c}
+	\tkzLabelLine[pos=0.5, right](C,B){a}
+	\tkzLabelLine[pos=0.5, above](A,C){b}
+\end{tikzpicture} \bigbreak
+
+
+For this triangle it is true that:
+\end{center}
+$$\frac{\sin{A}}{a} \ = \ \frac{\sin{B}}{b} \ = \ \frac{\sin{C}}{c}$$
+
+
+\bigbreak
+
+
+
+
+
+
+%Draw and define the amount of possible triangles provided following:
+
+%$$A = 30\degree, \ AC = 6 cm, \ BC = 4 cm$$
+%\bigbreak
+
+
+%\begin{center}
+%	\begin{tikzpicture}
+
+		
+
+
+%	\end{tikzpicture}
+%\end{center}
+
+
+
 
 %tan fn
 \subsection{The \emph{tan} function}
@@ -78,11 +130,10 @@ The $\tan$ function is defined as \emph{the ratio between the opposite, and adja
 Hence, we may define $\tan(\theta)$ as such: \bigbreak
 $$\cos(\theta) = \frac{c}{a}$$
 
-
-\subsubsection{On a graph}
-
 \newpage
 
+
+%FINDING AREAS
 
 \subsection{On non-right triangles}
 
@@ -263,6 +314,16 @@ $$P = (r \ \cos \theta, \ \ r \ \sin \theta)$$
 
 \end{axis}
 \end{tikzpicture}
+
+
+Although immediately obscure, the shapes of these functions can be explained by
+ imagining how the lengths of the different functions change as you rotate one 
+revolution around the unit circle.
+
+
+
+
+
 
 
 \end{document}
