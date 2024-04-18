@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.9)  18 APR 2024 08:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.9)  16 APR 2024 14:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**./nuclear.tex
-(nuclear.tex
+**./electronics_and_magnetism.tex
+(electronics_and_magnetism.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -92,21 +92,13 @@ LaTeX Info: Redefining \Relbar on input line 971.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/tools\bm.sty
-Package: bm 2023/07/08 v1.2f Bold Symbol Support (DPC/FMi)
-\symboldoperators=\mathgroup4
-\symboldletters=\mathgroup5
-\symboldsymbols=\mathgroup6
-Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
-)
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\symAMSa=\mathgroup7
-\symAMSb=\mathgroup8
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
@@ -460,6 +452,98 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/circuitikz\circuitikz
+.sty
+Package: circuitikz 2024/02/09{} The CircuiTikz circuit drawing package version
+ 1.6.7
+
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
+braryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowinset=\dimen258
+\pgfarrowlength=\dimen259
+\pgfarrowwidth=\dimen260
+\pgfarrowlinewidth=\dimen261
+)
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarybending.code.tex
+File: tikzlibrarybending.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
+lebending.code.tex
+File: pgfmodulebending.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
+lenonlineartransformations.code.tex
+File: pgfmodulenonlineartransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgftransformnonlinearflatness=\dimen262
+)
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
+brarycurvilinear.code.tex
+File: pgflibrarycurvilinear.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@curvilinear@time@a=\dimen263
+\pgf@curvilinear@length@a=\dimen264
+\pgf@curvilinear@length@b=\dimen265
+\pgf@curvilinear@length@c=\dimen266
+\pgf@curvilinear@length@d=\dimen267
+)
+\pgf@arrows@the@rigidity=\dimen268
+))
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryfpu.code.tex
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
+braryfpu.code.tex))
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirc.
+defines.tex
+\pgf@circ@count@a=\count295
+\pgf@circ@count@b=\count296
+\pgf@circ@count@c=\count297
+\pgf@circ@res@up=\dimen269
+\pgf@circ@res@down=\dimen270
+\pgf@circ@res@zero=\dimen271
+\pgf@circ@res@left=\dimen272
+\pgf@circ@res@right=\dimen273
+\pgf@circ@res@other=\dimen274
+\pgf@circ@res@step=\dimen275
+\pgf@circ@res@temp=\dimen276
+\pgf@circ@Rlen=\dimen277
+\pgf@circ@scaled@Rlen=\dimen278
+\pgfstartlinewidth=\dimen279
+)
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircu
+tils.tex
+\ctikz@scratchbox=\box64
+)
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircp
+ath.tex)
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircs
+hapes.tex)
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircm
+onopoles.tex)
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircb
+ipoles.tex)
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirct
+ripoles.tex
+\pgf@circ@res@count=\count298
+)
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircq
+uadpoles.tex)
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircm
+ultipoles.tex)
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircl
+abel.tex)
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircv
+oltage.tex
+\pgfcirc@labelshift=\dimen280
+)
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircc
+urrent.tex)
+(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircf
+low.tex))
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-eucli
 de.sty
 2024/02/04 5.06c tkz-euclide.sty
@@ -476,40 +560,28 @@ File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
 braryarrows.code.tex
 File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\arrowsize=\dimen258
+\arrowsize=\dimen281
 ))
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
-braryarrows.meta.code.tex
-File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowinset=\dimen259
-\pgfarrowlength=\dimen260
-\pgfarrowwidth=\dimen261
-\pgfarrowlinewidth=\dimen262
-)
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
 ikz/libraries\tikzlibrarybackgrounds.code.tex
 File: tikzlibrarybackgrounds.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@layerbox@background=\box64
-\pgf@layerboxsaved@background=\box65
-)
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibrarycalc.code.tex
-File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@layerbox@background=\box65
+\pgf@layerboxsaved@background=\box66
 )
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
 ikz/libraries\tikzlibrarydecorations.code.tex
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
 ledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen263
-\pgfdecoratedremainingdistance=\dimen264
-\pgfdecoratedinputsegmentcompleteddistance=\dimen265
-\pgfdecoratedinputsegmentremainingdistance=\dimen266
-\pgf@decorate@distancetomove=\dimen267
-\pgf@decorate@repeatstate=\count295
-\pgfdecorationsegmentamplitude=\dimen268
-\pgfdecorationsegmentlength=\dimen269
+\pgfdecoratedcompleteddistance=\dimen282
+\pgfdecoratedremainingdistance=\dimen283
+\pgfdecoratedinputsegmentcompleteddistance=\dimen284
+\pgfdecoratedinputsegmentremainingdistance=\dimen285
+\pgf@decorate@distancetomove=\dimen286
+\pgf@decorate@repeatstate=\count299
+\pgfdecorationsegmentamplitude=\dimen287
+\pgfdecorationsegmentlength=\dimen288
 )
-\tikz@lib@dec@box=\box66
+\tikz@lib@dec@box=\box67
 )
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
 ikz/libraries\tikzlibrarydecorations.markings.code.tex
@@ -527,9 +599,9 @@ ations\pgflibrarydecorations.shapes.code.tex))
 ikz/libraries\tikzlibrarydecorations.text.code.tex
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decor
 ations\pgflibrarydecorations.text.code.tex
-\pgf@lib@dec@text@box=\box67
+\pgf@lib@dec@text@box=\box68
 )
-\tikz@lib@dec@te@box=\box68
+\tikz@lib@dec@te@box=\box69
 )
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
 ikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex
@@ -539,16 +611,12 @@ ations\pgflibrarydecorations.pathmorphing.code.tex))
 ikz/libraries\tikzlibraryintersections.code.tex
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
 braryintersections.code.tex
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
-braryfpu.code.tex)
-\pgf@intersect@solutions=\count296
+\pgf@intersect@solutions=\count300
 ))
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
 ikz/libraries\tikzlibrarymath.code.tex
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibraryfpu.code.tex)
-\tikz@math@for@depth=\count297
-\tikz@math@dimen=\dimen270
+\tikz@math@for@depth=\count301
+\tikz@math@dimen=\dimen289
 \tikz@math@toks=\toks35
 )
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
@@ -586,8 +654,8 @@ Package: expl3 2024-03-14 L3 programming layer (loader)
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
 dftex.def
 File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count298
-\l__pdf_internal_box=\box69
+\l__color_backend_stack_int=\count302
+\l__pdf_internal_box=\box70
 ))
 Package: xfp 2024-03-14 L3 Floating point unit
 )
@@ -600,20 +668,20 @@ Package: xparse 2024-03-14 L3 Experimental document command parser
 )
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count299
+\etb@tempcnta=\count303
 ))
-\tkzRadius=\dimen271
-\tkzLength=\dimen272
-\tkz@radi=\dimen273
-\tkz@ax=\dimen274
-\tkz@ay=\dimen275
-\tkz@bx=\dimen276
-\tkz@by=\dimen277
-\tkz@cx=\dimen278
-\tkz@cy=\dimen279
-\tkz@dx=\dimen280
-\tkz@dy=\dimen281
-\tkz@cntmk=\count300
+\tkzRadius=\dimen290
+\tkzLength=\dimen291
+\tkz@radi=\dimen292
+\tkz@ax=\dimen293
+\tkz@ay=\dimen294
+\tkz@bx=\dimen295
+\tkz@by=\dimen296
+\tkz@cx=\dimen297
+\tkz@cy=\dimen298
+\tkz@dx=\dimen299
+\tkz@dy=\dimen300
+\tkz@cntmk=\count304
 
 Local configuration file tkz-euclide.cfg found and used
 
@@ -753,82 +821,6 @@ tkz-draw-eu-show.tex
 tkz-draw-eu-protractor.tex
 2024/02/04 5.06c tkz-obj-eu-protractor.tex
 ))
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/circuitikz\circuitikz
-.sty
-Package: circuitikz 2024/02/09{} The CircuiTikz circuit drawing package version
- 1.6.7
-
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibrarybending.code.tex
-File: tikzlibrarybending.code.tex 2023-01-15 v3.1.10 (3.1.10)
-
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
-lebending.code.tex
-File: pgfmodulebending.code.tex 2023-01-15 v3.1.10 (3.1.10)
-
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
-lenonlineartransformations.code.tex
-File: pgfmodulenonlineartransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgftransformnonlinearflatness=\dimen282
-)
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
-brarycurvilinear.code.tex
-File: pgflibrarycurvilinear.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@curvilinear@time@a=\dimen283
-\pgf@curvilinear@length@a=\dimen284
-\pgf@curvilinear@length@b=\dimen285
-\pgf@curvilinear@length@c=\dimen286
-\pgf@curvilinear@length@d=\dimen287
-)
-\pgf@arrows@the@rigidity=\dimen288
-))
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirc.
-defines.tex
-\pgf@circ@count@a=\count301
-\pgf@circ@count@b=\count302
-\pgf@circ@count@c=\count303
-\pgf@circ@res@up=\dimen289
-\pgf@circ@res@down=\dimen290
-\pgf@circ@res@zero=\dimen291
-\pgf@circ@res@left=\dimen292
-\pgf@circ@res@right=\dimen293
-\pgf@circ@res@other=\dimen294
-\pgf@circ@res@step=\dimen295
-\pgf@circ@res@temp=\dimen296
-\pgf@circ@Rlen=\dimen297
-\pgf@circ@scaled@Rlen=\dimen298
-\pgfstartlinewidth=\dimen299
-)
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircu
-tils.tex
-\ctikz@scratchbox=\box70
-)
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircp
-ath.tex)
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircs
-hapes.tex)
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircm
-onopoles.tex)
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircb
-ipoles.tex)
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirct
-ripoles.tex
-\pgf@circ@res@count=\count304
-)
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircq
-uadpoles.tex)
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircm
-ultipoles.tex)
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircl
-abel.tex)
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircv
-oltage.tex
-\pgfcirc@labelshift=\dimen300
-)
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircc
-urrent.tex)
-(C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircf
-low.tex))
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
 
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.r
@@ -1018,23 +1010,23 @@ Library (tcolorbox): 'tcbfitting.code.tex' version '6.2.0'
 \tcb@lowerfitdim=\dimen310
 \tcb@upperfitdim=\dimen311
 \tcb@cur@hbadness=\count318
-)) (nuclear.aux)
-\openout1 = `nuclear.aux'.
+)) (electronics_and_magnetism.aux)
+\openout1 = `electronics_and_magnetism.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
 mkii
@@ -1064,12 +1056,12 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
 
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
 
 
 (C:\Users\ah48963\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -1077,49 +1069,39 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 [1
 
-{C:/Users/ah48963/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(nuclear.toc)
-\tf@toc=\write4
-\openout4 = `nuclear.toc'.
 
- [1] [2] [3] [4] [5] [6] [7] (nuclear.aux)
+{C:/Users/ah48963/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(electronics_and_magnetism.toc)
+\tf@toc=\write4
+\openout4 = `electronics_and_magnetism.toc'.
+
+ [1] [2] [3] (electronics_and_magnetism.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 49091 strings out of 474423
- 1366113 string characters out of 5740775
- 2347545 words of memory out of 5000000
- 70760 multiletter control sequences out of 15000+600000
- 574361 words of font info for 95 fonts, out of 8000000 for 9000
+ 48960 strings out of 474423
+ 1364715 string characters out of 5740775
+ 2065329 words of memory out of 5000000
+ 70651 multiletter control sequences out of 15000+600000
+ 567179 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,9n,107p,1179b,2077s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,6n,107p,1195b,867s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmbx12.pfb><C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmbxti10.pfb><C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/ah48963/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/ah48963/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/ah48963/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/a
-h48963/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb
-><C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmr10.pfb><C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmr12.pfb><C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr17.pfb><C:/Users/ah48963/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/ah48963/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/ah48963/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ah48963/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/
-ah48963/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-<C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmti10.pfb><C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmti12.pfb><C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/symbols/msam10.pfb>
-Output written on nuclear.pdf (8 pages, 231396 bytes).
+/amsfonts/cm/cmmi12.pfb><C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmmi8.pfb><C:/Users/ah48963/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ah48963/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/ah48963/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ah4896
+3/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Us
+ers/ah48963/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12
+.pfb>
+Output written on electronics_and_magnetism.pdf (4 pages, 98250 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
+ 58 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
