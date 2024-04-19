@@ -21,13 +21,20 @@ borderline={0.75pt}{0pt}{dashed},
 
 %END OF PREAMBLE
 \begin{document}
-\begin{titlepage}
+
 \clearpage \maketitle
 \begin{center}
 	FYS01a: Physics 1a
 \end{center}
+
+\vfill
+
+\begin{center}
+This document has used \LaTeX\ in combination with \emph{TikZ} for typesetting.
+\end{center}
+
 \thispagestyle{empty}
-\end{titlepage}
+\newpage
 
 \tableofcontents
 
@@ -54,10 +61,10 @@ cross-section per unit of time. $$I = C \ s^{-1}$$
 
 \section{Circuits \& Quanitites}
 The structure of a circuit affects how the \emph{Voltage} 
-\& \emph{Amperage} behaves. 
+, \emph{Resistance}, \& \emph{Amperage} behaves. 
 
 \subsection{Circuits in series}
-
+\bigbreak
 \begin{center}
 \begin{circuitikz}[scale=3.0]
 \draw (0,0) -- (0,1) to[R=$R_1$] (1,1) to[R=$R_2$] (2,1) -- (2,0) to[battery1] (0,0);
@@ -76,7 +83,17 @@ The structure of a circuit affects how the \emph{Voltage}
 \end{center}
 
 
+For a circuit connected in series it is true that: 
+$$R = \sum_{k=1}^{n} R_n$$
+
+$$I = I_1 = I_2 \cdots I_n$$
+
+$$V = \sum_{k=1}^{n} V_n$$
+
+\newpage
+
 \subsection{Circuits in parallel}
+\bigbreak
 \begin{center}
 \begin{circuitikz}[scale=3.0]
 \draw (0,0) -- (0,2) to[R=$R_1$] (2,2) -- (2,0) to[battery1] (0,0);
@@ -98,5 +115,12 @@ The structure of a circuit affects how the \emph{Voltage}
 \end{center}
 
 
+For a circuit connected in parallel it is true that:
+
+$$\frac{1}{R} = \sum_{k=1}^{n} \frac{1}{R_n}$$
+
+$$I = \sum_{k=1}^{n} I_n$$
+
+$$V=V_1=V_2 \cdots V_n$$
 
 \end{document}
