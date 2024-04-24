@@ -16,7 +16,9 @@
 \begin{titlepage}
 \clearpage\maketitle
 \begin{center}
-MAT03c: Mathematics 3c
+MAT03c: Mathematics 3c \bigbreak
+\vfill
+This document has used \LaTeX\ in combination with \emph{TikZ} for typesetting.
 \end{center}
 \thispagestyle{empty}
 \end{titlepage}
@@ -228,9 +230,9 @@ $$LHS = RHS \quad \square$$
 	\tkzLabelLine[pos=0.5, left, scale=1.5](C,D){h}
 
 	%MARKING ANGLES
-	\tkzMarkAngle(C,B,A)
-	\tkzMarkAngle(B,A,C)
-	\tkzMarkAngle(A,C,B)
+	\tkzMarkAngle[scale=0.75](C,B,A)
+	\tkzMarkAngle[scale=0.75](B,A,C)
+	\tkzMarkAngle[scale=0.75](A,C,B)
 
 	%DRAW DASHED LINES & MARK RIGHT ANGLE
 	\tkzDrawSegments[dashed](C,D D,A)
@@ -245,7 +247,7 @@ $$LHS = RHS \quad \square$$
 For triangles like above, it is true that {\Large $A = \frac{cb\sin(\angle{A})}{2}$}
 
 \begin{center}
-	\textbf{Proof:}
+	\textbf{Proof:} \bigbreak
 	Assume that $A = \frac{ch}{2}$ \\
 	$$\frac{cb\sin(\angle{A})}{2} = \frac{ch}{2}$$
 	$$\frac{b\sin(\angle{A})}{2} = \frac{h}{2}$$
@@ -370,9 +372,11 @@ $$P = (r \ \cos \theta, \ \ r \ \sin \theta)$$
 \end{tikzpicture} \bigbreak
 
 
-Although immediately obscure, the shapes of these functions can be explained by
- imagining how the lengths of the different functions change as you change $\theta$ such that $P$ rotates one 
-revolution around the unit circle.
+Although immediately obscure, the shapes of these 
+functions can be explained by imagining how the lengths 
+of the different functions change as you change $\theta$ 
+such that $P$ rotates one revolution around the unit 
+circle.
 
 
 

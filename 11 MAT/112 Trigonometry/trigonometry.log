@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.9)  15 APR 2024 18:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.9)  24 APR 2024 12:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -987,10 +987,10 @@ L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 44705 strings out of 474423
- 1244801 string characters out of 5740775
+ 44708 strings out of 474423
+ 1244864 string characters out of 5740775
  2325146 words of memory out of 5000000
- 66460 multiletter control sequences out of 15000+600000
+ 66463 multiletter control sequences out of 15000+600000
  568785 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  119i,17n,138p,1178b,2278s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1006,7 +1006,7 @@ ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/ah
 y10.pfb><C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmti12.pfb><C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/amsfonts/symbols/msam10.pfb>
-Output written on trigonometry.pdf (8 pages, 157614 bytes).
+Output written on trigonometry.pdf (8 pages, 159489 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
