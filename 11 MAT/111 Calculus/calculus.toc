@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}The Infinituple \& Infinitesimal}{1}{}%
+\contentsline {section}{\numberline {2}The Derivative}{1}{}%
+\contentsline {subsection}{\numberline {2.1}Definition of the derivative}{1}{}%
+\contentsline {subsection}{\numberline {2.2}Derivation Rules}{1}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}The Power Rule}{2}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}The Exponential Derivative}{2}{}%
+\contentsline {subsubsection}{\numberline {2.2.3}The logarithmic derivative}{3}{}%
+\contentsline {section}{\numberline {3}The Integral}{4}{}%
+\contentsline {subsection}{\numberline {3.1}Primitive Functions}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}The Constant of Integration}{4}{}%
+\contentsline {subsection}{\numberline {3.2}Definite Integrals}{5}{}%
