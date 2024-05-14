@@ -4,12 +4,10 @@
 \usepackage{tikz}
 \usepackage{circuitikz}
 \usepackage{tkz-euclide}
+\usepackage{bm}
+\usepackage{cancel}
 \usepackage{pgfplots}
-<<<<<<< HEAD
 \usepackage[many]{tcolorbox}
-=======
-\pgfplotsset{compat=1.18}
->>>>>>> 0b1a23c0c8ec8182eb63dc562613a9d2ff0542b0
 \tikzset{european}
 \pgfplotsset{compat=1.18}
 \usepgfplotslibrary{fillbetween}
@@ -32,7 +30,7 @@ MAT03c: Mathematics 3c
 \vfill
 This document uses \LaTeX\ in combination with \emph{TikZ} for typesetting.
 \end{center}
-
+\thispagestyle{empty}
 \newpage
 \tableofcontents
 \thispagestyle{empty}
@@ -49,6 +47,9 @@ $$0.000\cdots1$$
 
 Derivatives may be denoted as such for a function $y = f(x)$:
 $$\dot{y} = f'(x)$$
+\begin{center}
+\textbf{OR:}
+\end{center}	
 $$\dot{y} = \frac{dy}{dx}f(x)$$
 
 
@@ -110,7 +111,8 @@ In polynomials containing $e^x$ there is no $\ln{e}$ needed as $\ln{e}=1$.
 
 \textbf{LOOK OUT!}
 
-If the power $x$ is negative, there is a $-1$ in the place of $n$, meaning that the polynomial switches sign as you derivate it.
+If the power of $x$ is negative, there is a $-1$ in the place of $n$, meaning that the polynomial switches sign as you 
+derivate it.
 
 \subsubsection{The logarithmic derivative}
 
@@ -135,8 +137,8 @@ The integal is less well defined intuitively, but it may be defined as the area 
 
 \subsection{Primitive Functions}
 
-A \emph{primitive function} or \emph{indefinite integral} is the \emph{antiderivative} of a function, i.e. the function is the derivative of the primitive functions. The are denoted as such for
- the primitive function of $f(x)$: 
+A \emph{primitive function} or an \emph{indefinite integral} is the \emph{antiderivative} of a function, i.e. the function is 
+the derivative of the primitive function. They are denoted as such for the primitive function of $f(x)$: 
 $$F(x)$$
 \bigbreak
 A primitive function is then defined such that: 
@@ -153,25 +155,29 @@ $$F(x) = \frac{x^n+1}{n+1} + C$$
 
 \subsection{Definite Integrals}
 
-A \emph{definite integral} is the area between two bounds of a function, $a$ \& $b$.
+A \emph{definite integral} may be thought of as the area between two bounds of a function, $a$ \& $b$.
 \begin{center}
 \begin{tikzpicture}
 	\begin{axis}[
 		axis lines = left,
-		ylabel = $f(x)$,
+		ylabel = $y$,
 		xlabel = $x$,
 		]
 
 		\path[name path=axis,] (axis cs:0,0) -- (axis cs:10,0);
 
 		\addplot[name path = f, color=red, samples=1000, domain=0:10,]{x^2};
-		\addlegendentry{$x^2$};
+		\addlegendentry{$f(x) = x^2$};
 
 		\addplot[blue!25] fill between [
 			of=f and axis,
 			soft clip = {domain=2:6},
 			];
 		\node[blue!70] at (axis cs:7,20){A};
+		
+		\node[red, rotate=53] at (axis cs:7.8,70) {$f(x)$};
+
+		\draw[blue!70] (axis cs:6.8,20) -- (axis cs:5,12.5);
 
 		\draw[dashdotted, blue] (axis cs:2,0) -- (axis cs:2,4);
 
@@ -191,5 +197,25 @@ A \emph{definite integral} is the area between two bounds of a function, $a$ \& 
 \begin{equation}
 A = \int^{b}_{a}f(x)\ dx = F(b) - F(a)
 \end{equation}
+Above equation is true for \emph{all definite integrals}.
+\bigbreak
+	\textbf{NOTE:} \bigbreak
+	In an integral, both $F(b)$ \& $F(a)$ contain a \emph{constant of integration} (\textbf{3.1.1}). Since $F(a)$ is subtracted from $F(b)$, $C$ may be ignored;
+
+	\begin{BOX}
+
+		\textbf{\underline{Proof that  $\bm C$ may be ignored \emph{for definite integrals}:}} \bigbreak
+
+		\textbf{Definitions:} Let $\phi(x)$ be a component of $F(x)$ such that: $$F(x) = \phi(x) + C$$ \bigbreak
+
+		$$\int^{b}_{a} f(x) \ dx = F(b) - F(a) = \left(\phi(b) + C\right) - \left(\phi(a) + C\right)$$
+		$$\int^{b}_{a} f(x) \ dx = \phi(b) + \cancel{C} -\phi(a) - \cancel{C} = \phi(b)-\phi(a)$$
+		\begin{center}
+		$C$ cancels, hence it may be ignored.
+		\end{center}	
+		\begin{flushright}
+			$\square$
+		\end{flushright}
+	\end{BOX}
 
 \end{document}
