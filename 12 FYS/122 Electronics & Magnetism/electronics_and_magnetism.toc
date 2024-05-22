@@ -5,3 +5,4 @@
 \contentsline {section}{\numberline {2}Circuits \& Quanitites}{4}{}%
 \contentsline {subsection}{\numberline {2.1}Circuits in series}{4}{}%
 \contentsline {subsection}{\numberline {2.2}Circuits in parallel}{5}{}%
+\contentsline {subsection}{\numberline {2.3}Resistor Equivalence}{6}{}%

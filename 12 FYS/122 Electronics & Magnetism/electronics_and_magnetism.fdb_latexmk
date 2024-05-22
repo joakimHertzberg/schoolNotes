@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1713517186.04643 "electronics_and_magnetism.tex" "electronics_and_magnetism.pdf" "electronics_and_magnetism" 1713517191.43662 0
-  "C:/Users/ah48963/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1712661149 843694 59e89f177c40ff45352d849c07975912 ""
+["pdflatex"] 1716366675.15922 "electronics_and_magnetism.tex" "electronics_and_magnetism.pdf" "electronics_and_magnetism" 1716366683.38637 0
+  "C:/Users/ah48963/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1714639496 843694 59e89f177c40ff45352d849c07975912 ""
   "C:/Users/ah48963/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1712662330 24236990 dbebd8952c6c0e57d48c9e0ede71141e ""
   "C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/ah48963/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -257,9 +257,9 @@
   "C:/Users/ah48963/AppData/Local/Programs/MiKTeX/tex/latex/trimspaces/trimspaces.sty" 1253169183 1380 971a51b00a14503ddf754cab24c3f209 ""
   "C:/Users/ah48963/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "C:/Users/ah48963/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
-  "electronics_and_magnetism.aux" 1713517190 785 b36912839128932d2a231bca94c69253 "pdflatex"
-  "electronics_and_magnetism.tex" 1713517173 2724 5dc1de86f95017d6da7fabdf3713ddc4 ""
-  "electronics_and_magnetism.toc" 1713517190 466 24a49a9ba5047482d530682778ab76bf "pdflatex"
+  "electronics_and_magnetism.aux" 1716366682 898 53844b9ca9c831b280b051245826a41b "pdflatex"
+  "electronics_and_magnetism.tex" 1716366673 4344 b84a9e514ad7c5389e990faafb7da390 ""
+  "electronics_and_magnetism.toc" 1716366682 538 4cefe5bc36e247f03dbe06f92fba0600 "pdflatex"
   (generated)
   "electronics_and_magnetism.aux"
   "electronics_and_magnetism.log"
